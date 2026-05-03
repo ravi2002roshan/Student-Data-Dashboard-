@@ -1,6 +1,11 @@
 # Student-Data-Dashboard-
 A modern Student Data Dashboard built with Python and CustomTkinter to manage course-wise student records. Features include add, update, delete, search, and real-time statistics. Uses JSON for data storage and provides a clean, user-friendly GUI.
 
+<img width="1905" height="970" alt="image" src="https://github.com/user-attachments/assets/a9f83796-4d1b-4b21-8639-59e70d53e4f7" />
+
+
+
+
 # Student Data Dashboard
 
 A Python-based desktop application built with CustomTkinter for managing student records in a structured and user-friendly way. The system supports multiple courses and provides an intuitive interface for handling student data efficiently.
